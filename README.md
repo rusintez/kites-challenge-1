@@ -21,7 +21,7 @@ Some English notes:
 
 * There is only one correct output for a given input string.
 * The parser deals with overlaps.
-* A day begins at 0000 and ends at 2800.
+* A day begins at 0000 and ends at 2400.
 
 # Usage
 
